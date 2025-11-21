@@ -1,0 +1,21 @@
+
+{
+  "OrderID": 557655757,
+  "Address": "Av. No conozco la dirección 3333",
+  "Status": "activo",
+  "Articles":
+ [
+    {
+      "Name": "Batería de litio recargable",
+      "price": 111,
+      "Quantity": 2,
+      "Dangerous": true
+    },
+    {
+      "Name": "Batería de niqkel",
+      "price": 222,
+      "Quantity": 1,
+      "Dangerous": true
+    }
+  ]
+}
